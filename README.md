@@ -14,4 +14,4 @@ Clone this repo into the `src` directory of your catkin workspace and build it, 
 
 ## Using myP's ROS module
 
-Please have a look at the __**myP User Manual**__ manual for detailed examples. Should you find any issues, please report them to [support@fp-robotics.com](support@fp-robotics.com).
+Please have a look at the __**myP User Manual**__ for detailed examples. Should you find any issues, please report them to [support@fp-robotics.com](support@fp-robotics.com).
